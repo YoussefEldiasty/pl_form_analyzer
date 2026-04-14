@@ -1,0 +1,12 @@
+[project]
+name = "pl-form-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mediapipe>=0.10.33",
+    "numpy>=2.4.4",
+    "opencv-python>=4.13.0.92",
+    "streamlit>=1.56.0",
+]
