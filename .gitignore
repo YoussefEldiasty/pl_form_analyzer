@@ -14,3 +14,5 @@ input_videos/
 output_videos/
 video.mp4
 output.mp4
+output_compressed.mp4
+fix_vid_cmd.txt
